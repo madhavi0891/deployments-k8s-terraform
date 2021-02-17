@@ -24,7 +24,7 @@ resource "kubernetes_service" "nginx" {
   }
 
   spec {
-    selector {
+    selector = {
       run = "nginx"
     }
 
@@ -46,13 +46,13 @@ resource "kubernetes_replication_controller" "nginx" {
     name      = "nginx"
     namespace = "${kubernetes_namespace.staging.metadata.0.name}"
 
-    labels {
+    labels = {
       run = "nginx"
     }
   }
 
   spec {
-    selector {
+    selector = {
       run = "nginx"
     }
 
