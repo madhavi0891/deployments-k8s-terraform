@@ -1,0 +1,15 @@
+{
+  "type": "service_account",
+  "project_id": "nodal-cogency-303605",
+  "private_key_id": "0c60545f39883c65d7863a537e615d44edc48f50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUloB0H2SsQyIH\njDQmweRXOxa45H0Eypxj6ex4IkdbUUGEcKtWpVSNGQ2KczEX3+00JO26UfmmgyL+\nkoqPFZdw6sBAr/if80XLbAQyLdCqA6/RER8lTiNlDXzxS25sk2jv0PNgH2X4F2b0\n2we9kArloDpkhaoUjEsJE5cWSa8iFBrtB8Lnt/31OAmVC6di5LPre5cgw1fOjra3\nQknACAduTa40DhMimyg8a9wCDj3ba9cjmWdc2TDXVQ4WeqWGbhfqK4a3fXFhqcAm\nlIzBlnpl5izIVRLZMESV/ynLjYU0Mwn9XmdL/YhJNBRrVnDuzWX/X/SF+lekI4Gl\n5rHZpR33AgMBAAECggEABrcVqgAJ3Tp7pd24Z1cC6vx7VxjPQtT8RAMHd14B1LEd\njtzuP0eWraRSc1f4f4a7xpoPW64rjXvL9wWoVHpmn72n7ViBqS/KjxvuNVWRfKVZ\ngD2jDGR0+sQGeSrG+1gGsw3tz3tTwcFKJ8bkGN6mxs0dEGrRI2KxG2wf1CeSCCin\n/IqjscSG6Zm6bxTX90CGcBJ9A9t7JPUS8vUgHRoiH250VjTS6c5ABqjepFzQjD+5\niEl5A3m9B9YKg393NSfBX5nLjIpmBeVrmwfAifrhfqnqzYOUB4ATLw9cFOe2+ZxT\niIo40BZycPOrjFjgyQgP+yDTaPYvAlmmRBwV+47q1QKBgQD5NXyUvzAQO8P4WDWU\nToC0HxsuoktSC+73WX7ZLXrlQosTjEAChIiy9ChAcL2KzXw/tKQoSC+0x0QrxowZ\nPn8ZzaTw3qvw671aQM3GKmadTkbUGmb6vS4fLCEL750smnhsL48IFEVbWUWXEX1s\njCGJxfORETg8WOLHrEz4o/DeMwKBgQDaYYrHt1pwqo4tIFGLc8vvEkZtr6/F5Y1Q\nG7LHIMXTOcP+OXARPYi4UWhG+ZvF56uQQnW21SwCNKkxGbVz55sVr85vTjNE3E00\nRjAwSuCJspoTBndABZJQD2IbmbkAc5APHXUt1qIzkM0u99BYLWRcmkY2rPivqbsy\n55Bv+/y1LQKBgCJrvNVewui7GIpIxL3DSguW8E40pGqks1D+z4J3wa3AzyzYBk9S\ntv7gsl6UM9nkH/E8ph/aOJyjmUrilZ82/p81xD5wwxb3uKOqp8FjQeEgWrAZJXgk\ngSZVFgtsAS2T+GYY+4yGID5Jyk7fX4+Km2dILCgxVK8hJ9Gkfs0o96/5AoGAUgt/\nhlUeh2GslMull0zj+2fUSfVNhn4dv1EIs8NeT2NOfT67Gd8SdJ0xHik9GvdU/5fY\nfd5M8G80eZv9DhSfsWAhoLOyk1ZpMxCDnkEjZthRBoDRYJ43QBjndRMl7EN+hg89\nLQGMYu8uB01XWymCoT/czUHjFKwiBpf1Lf1wDekCgYEAnjHOsy6cR3ZeJAlmjB42\nSqvT2QS34Wkq9+mt8VqliOnsPpo6Tql8fgx59Jn3UQi1s6+nPsavHxehv38ppm9u\nIqXRuXgw5Soi7Bm5Za0VE7O4Bsf9V5nrYHEN+3hXIWXgwbYGuDMfufHsV4K2UpN4\nUiYVoOsfWvbC6q1oTshU95s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "teraform@nodal-cogency-303605.iam.gserviceaccount.com",
+  "client_id": "101070129186557650349",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teraform%40nodal-cogency-303605.iam.gserviceaccount.com"
+}
+
+
+
